@@ -1,2 +1,4 @@
 # WhoIsTheCoolest
-A telegram Bot to see Who is the coolest person in a Group
+A telegram Bot to see Who is the coolest person in a Group \n
+I use telebot 
+
